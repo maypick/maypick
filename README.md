@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://imgbox.com/bZgDfoz3" target="_blank"><img src="https://images2.imgbox.com/8a/c7/bZgDfoz3_o.png" alt="image host"/></a>
-<p align="center"> <sub> I don't know why it's cutting off half of the image and I do not know nor care enough to figure out how to fix it. Sorry.</sub>
+<p align="center"> <sub> This image cuts off on certain devices & I don't care enough to make it not do that. Sorry.</sub>
 
 
 
