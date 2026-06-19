@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://imgbox.com/rE7POD8F" target="_blank"><img src="https://images2.imgbox.com/ed/14/rE7POD8F_o.png" alt="image host"/></a>
+<p align="center"> <a href="https://imgbox.com/bZgDfoz3" target="_blank"><img src="https://images2.imgbox.com/8a/c7/bZgDfoz3_o.png" alt="image host"/></a>
 <p align="center"> <sub> I don't know why it's cutting off half of the image and I do not know nor care enough to figure out how to fix it. Sorry.</sub>
 
 
